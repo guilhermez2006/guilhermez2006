@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B;Sou+Guilherme+Lima;Desenvolvedor+Full+Stack;Estudante+de+ADS+no+SENAI;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!--Maquina de Escrever-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3399FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Guilherme+Lima+Desenvolvedor+Full+Stack+;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/guilhermez2006)
 
 </div>
 
