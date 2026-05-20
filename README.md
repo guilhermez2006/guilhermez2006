@@ -48,7 +48,11 @@ const guilherme = {
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-> 🔐 JWT Authentication · REST APIs · MVC Architecture
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+<p align="left">
+  🔐 <b>Autenticação JWT</b> &nbsp;·&nbsp; 🌐 <b>APIs REST</b> &nbsp;·&nbsp; 🏗️ <b>Arquitetura MVC</b>
+</p>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
