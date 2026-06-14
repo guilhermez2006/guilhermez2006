@@ -23,8 +23,8 @@
 ```js
 const guilherme = {
   curso:        "Análise e Desenvolvimento de Sistemas — SENAI",
-  trabalho:     "Analista de TI na InfoPrime | Bahia",
-  foco:         ["Back-end", "APIs REST", "Full Stack"],
+  experiência:  "Atuei como Analista de TI na Info Prime | Bahia",
+  foco:         ["Back-end", "APIs REST", "Desenvolvimento WEB", "Full Stack"],
   atualmente:   "Construindo APIs com Node.js, Express e MongoDB",
   objetivos:    "Primeira vaga como desenvolvedor 🎯",
 };
